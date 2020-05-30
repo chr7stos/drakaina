@@ -1,2 +1,2 @@
-<img src="../figures/drakaina-cyprus.jpeg"/>
+<img src="./figures/drakaina-cyprus.jpeg"/>
 <!-- caption text="Drakaina plant -->
